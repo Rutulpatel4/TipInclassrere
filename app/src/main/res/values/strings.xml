@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip Inclass Cal </string>
+    <string name="amount">Enter Amount</string>
+    <string name="default_percentage">15%</string>
+</resources>
